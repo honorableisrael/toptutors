@@ -1,0 +1,8 @@
+{
+  "name": "myfirstionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "6a548dd3"
+}
